@@ -216,383 +216,311 @@ fi
 if [ $bro = 15 ] || [ $bro = 15 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd module
+cd Wibu-tools
+cd tools
 python2 gam.py
 fi
 
 if [ $bro = 16 ] || [ $bro = 16 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd module
+cd Wibu-tools
+cd tools
 python2 anvima.py
 fi
 
 if [ $bro = 17 ] || [ $bro = 17 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd module
+cd Wibu-tools
+cd tools
 python2 htmd.py
 fi
 
 if [ $bro = 18 ] || [ $bro = 18 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd module
+cd Wibu-tools
+cd tools
 php autolike.php
 fi
 
 if [ $bro = 19 ] || [ $bro = 19 ]
 then
-clear
-toilet "Mr.B4J1N64N"
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-ls
-cd module
+cd Wibu-tools
+cd tools
 python2 auto_reaction.py
 fi
 
 if [ $bro = 20 ] || [ bro = 20 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-cd T00Ls-B4J1N64N2
-cd module
+echo ""
+figlet "WIBU-404"|lolcat
+cd
+cd Wibu-tools
+cd tools
 python2 botkomen.py
 fi
 
 if [ $bro = 21 ] || [ $bro = 21 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-git clone https://github.com/kuburan/txtool
-cd 
-cd T00Ls-B4J1N64N2
-cd txtool
-python2 install.py
-python2 update.py
-txtool
+echo ""
+figlet "WIBU-404"|lolcat
+cd
+cd Wibu-tools
+cd tools
+
 fi
 
 
 if [ $bro = 22 ] || [ bro = 22 ]
 then
 clear
-toilet -f slant -F gay "Mr.B4J1N64N" 
-pkg install update && pkg install upgrade
-pkg install git
-pkg install php
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-ls
-clear
-cd module
+cd Wibu-tools
+cd tools
 php sqlscan.php
 fi
 
 if [ $bro = 23 ] || [ $bro = 23 ]
 then
 clear
-toilet -f mono12 -F gay "Mr.B4J1N64N" 
-apt upgrade
-apt install python2
-apt install git
-git clone https://github.com/UltimateHackers/Hash-Buster
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd Hash-Buster
+cd Wibu-tools
+cd tools
 python2 hash.py
 fi
 
 if [ $bro = 24 ] || [ $bro = 24 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
-apt update
-apt install git
-apt install php
-git clone https://github.com/Tuhinshubhra/RED_HAWK
-cd 
-cd T00Ls-B4J1N64N2
-cd RED_HAWK
-chmod +x rhawk.php
+echo ""
+figlet "WIBU-404"|lolcat
+cd
+cd Wibu-tools
+cd tools
 php rhawk.php
 fi
 
 if [ $bro = 25 ] || [ $bro = 25 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
-apt update
-apt install git
-apt install tor
-git clone https://github.com/dotfighter/torshammer.git
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd torshammer
+cd Wibu-tools
+cd tools
 python2 torshammer.py
 fi
 
 if [ $bro = 26 ] || [ $bro = 26 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
-apt update
-apt install git
-git clone https://github.com/4L13199/LITEDDOS
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd LITEDDOS
+cd Wibu-tools
+cd tools
 python2 liteDDOS.py
 fi
 
 if [ $bro = 27  || [ $bro = 27 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
-apt update
-apt install git
-git clone https://github.com/b3-v3r/Hunner.git
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd Hunner
-chmod +x hunner.py
+cd Wibu-tools
+cd tools
 python3 hunner.py
 fi
 
 if [ $bro = 28 ] || [ $bro = 28 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
-apt update
-apt install git
-git clone https://github.com/sqlmapproject/sqlmap
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd sqlmap
+cd Wibu-tools
+cd tools
 python2 sqlmap.py
 fi
 
 if [ $bro = 29 ] || [ $bro = 29 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
-apt update
-apt install git
-git clone https://github.com/aryanrtm/4wsectools
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd 4wsectools
-chmod 777 tools
-./tools
+cd Wibu-tools
+cd tools
 fi
 
 if [ $bro = 30 ] || [ $bro = 30 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-apt update && upgrade
-apt install python2 
-apt install git
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd module
+cd Wibu-tools
+cd tools
 python2 lazymux.py
 fi
 
 if [ $bro = 31 ] || [ $bro = 31 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-sleep 1
-echo "\033[32;m====================Mempercepat / 
-menstabilkan sinyal===================="
-sleep 1
-echo "\033[32;1m================================By 
-Mr.B4J1N64N================================"
-sleep 1
 echo ""
-echo ""
-ping 8.8.8.8 
+figlet "WIBU-404"|lolcat
+cd
+cd Wibu-tools
+cd tools
+
 fi
 
 if [ $bro = 32 ] || [ $bro = 32 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-sleep 1
-echo "\033[32;m===================Mempercepat / 
-menstabilkan sinyal 2===================="
-sleep 1
-echo "\033[32;1m================================By 
-Mr.B4J1N64N================================"
-sleep 1
 echo ""
-echo ""
-ping -D www.google.com
+figlet "WIBU-404"|lolcat
+cd
+cd Wibu-tools
+cd tools
 fi
 
 if [ $bro = 33 ] || [ $bro = 33 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-sleep 1
-git clone https://github.com/Hood3dRob1n/BinGoo
-cd T00Ls-B4J1N64N2
-cd BinGoo
+echo ""
+figlet "WIBU-404"|lolcat
+cd
+cd Wibu-tools
+cd tools
 bash bingoo
 fi
 
 if [ $bro = 34 ] || [ $bro = 34 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-sleep 1
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd module
+cd Wibu-tools
+cd tools
 python2 facebook.py
 fi
 
 if [ $bro = 35 ] || [ $bro = 35 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-sleep 1
-apt update && apt upgrade
-apt install termux-api
-apt install git
-apt install php
-git clone https://github.com/Cvar1984/Termux-A.git
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd Termux-A
+cd Wibu-tools
+cd tools
 php run.php
 fi
 
 if [ $bro = 36 ] || [ $bro = 36 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-sleep 1
-apt update && apt upgrade
-apt install ruby
-apt install lolcat
-apt install git
-git clone https://github.com/Senitopeng/GadoGado.git
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd GadoGado
+cd Wibu-tools
+cd tools
 bash gado
 fi
 
 if [ $bro = 37 ] || [ $bro = 37 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-sleep 1
-apt update && apt upgrade
-apt install python2
-apt install git
-git clone 
-https://github.com/verluchie/termux-lazysqlmap.git
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd termux-lazysqlmap
-chmod 777 install.sh
-./install.sh
-lazysqlmap
+cd Wibu-tools
+cd tools
 fi
 
 if [ $bro = 38 ] || [ $bro = 38 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-sleep 1 
-apt install git
-apt install php
-git clone https://github.com/alintamvanz/diejoubu
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd diejoubu
-cd v1.2
-php diejoubu.php
+cd Wibu-tools
+cd tools
 fi
 
 if [ $bro = 39 ] || [ $bro = 39 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-sleep 1 
-apt install git
-apt install php
-git clone https://github.com/evait-security/weeman.git
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd weeman
-python2 weeman.py
+cd Wibu-tools
+cd tools
 fi
 
 if [ $bro = 40 ] || [ $bro = 40 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-sleep 1 
-apt install git
-apt install bash
-pip2 install bash
-git clone https://github.com/ALX-04/iesDEFACE
+echo ""
+figlet "WIBU-404"|lolcat
 cd
-cd T00Ls-B4J1N64N2
-cd iesDEFACE
-bash iesDeface.sh
+cd Wibu-tools
+cd tools
 fi
 
 if [ $bro = 41 ] || [ $bro = 41 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
-sleep 1
-git clone 
-https://github.com/MrKeepSmile/errorcybertool.git
-cd 
-cd T00Ls-B4J1N64N2
-cd errorcybertool
-chmod 77 errorcyber
-cd errorcybertool
-./errorcyber
+echo ""
+figlet "WIBU-404"|lolcat
+cd
+cd Wibu-tools
+cd tools
 fi
 
 if [ $bro = 0 ] || [ $bro = 0 ]
 then
-echo "\033[32;1mWe Are Family DARKNESS CYBER TEAM"
+echo "We Are Family WarriorBlue Cyber Team" |lolcat
 sleep 1
-echo "\033[33;1mWe Are Anonymous"
+echo "We Are WIBU" |lolcat
 sleep 1
-echo " "We Are Legion"
+echo " "We Need Waifu" |lolcat
 sleep 1
-echo " "We Do Not For Give"
+echo " "Hime Hime Hime" |lolcat
 sleep 1
-echo " "We Do Not For Get"
+echo " "Hime Hime Hime" |lolcat
 sleep 1
-echo " "The Indonesian Anonymous Family"
+echo " "Thanks To =The Indonesian Anonymous Family" |lolcat
 sleep 1
-echo " "Expect Us"
+echo " "Expect Us" |lolcat
 sleep 1
-echo "\033[32;1m Incarlah suatu hal mustahil:) Suatu saat 
-Kamu akan Mendapatkannya:)"
+echo "Incarlah suatu hal mustahil:) Suatu saat 
+Kamu akan Mendapatkannya:)" |lolcat
 sleep 1
 exit
 fi
