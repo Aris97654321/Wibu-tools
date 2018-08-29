@@ -221,7 +221,7 @@ figlet "WIBU-404"|lolcat
 cd
 cd Wibu-tools
 cd tools
-python2 gam.py
+python2 upf.py
 fi
 
 if [ $bro = 16 ] || [ $bro = 16 ]
@@ -232,7 +232,7 @@ figlet "WIBU-404"|lolcat
 cd
 cd Wibu-tools
 cd tools
-python2 anvima.py
+python2 deface.py
 fi
 
 if [ $bro = 17 ] || [ $bro = 17 ]
@@ -243,7 +243,7 @@ figlet "WIBU-404"|lolcat
 cd
 cd Wibu-tools
 cd tools
-python2 htmd.py
+python2 dog.py
 fi
 
 if [ $bro = 18 ] || [ $bro = 18 ]
@@ -254,7 +254,7 @@ figlet "WIBU-404"|lolcat
 cd
 cd Wibu-tools
 cd tools
-php autolike.php
+python2 gam.py
 fi
 
 if [ $bro = 19 ] || [ $bro = 19 ]
@@ -264,7 +264,7 @@ figlet "WIBU-404"|lolcat
 cd
 cd Wibu-tools
 cd tools
-python2 auto_reaction.py
+python2 anvima.py
 fi
 
 if [ $bro = 20 ] || [ bro = 20 ]
@@ -275,7 +275,7 @@ figlet "WIBU-404"|lolcat
 cd
 cd Wibu-tools
 cd tools
-python2 botkomen.py
+python2 htmd.py
 fi
 
 if [ $bro = 21 ] || [ $bro = 21 ]
@@ -283,10 +283,7 @@ then
 clear
 echo ""
 figlet "WIBU-404"|lolcat
-cd
-cd Wibu-tools
-cd tools
-
+bash txtool
 fi
 
 
