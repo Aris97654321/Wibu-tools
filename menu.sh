@@ -345,7 +345,7 @@ cd tools
 python2 liteDDOS.py
 fi
 
-if [ $bro = 27  || [ $bro = 27 ]
+if [ $bro = 27 ] || [ $bro = 27 ]
 then
 clear
 echo ""
