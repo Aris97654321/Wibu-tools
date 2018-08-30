@@ -1,3 +1,4 @@
+cd
 echo "proses installasi....."
 clear
 apt update && apt upgrade
