@@ -15,8 +15,8 @@ apt install figlet
 pip2 install requests
 pip2 install termcolor
 git clone https://github.com/Aris97654321/Wibu-tools
-git clone https://github.com/MiraApsari/kubik
 git clone https://github.com/Cabbagec/termux-ohmyzsh
+clear
 wget https://raw.githubusercontent.com/Aris97654321/Wibu-tools/master/menu
 chmod +x menu
 clear
