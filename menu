@@ -233,6 +233,10 @@ cd
 cd Wibu-tools
 cd tools
 python2 deface.py
+mv -f script.html /sdcard
+figlet "WIBU-404" |lolcat
+echo "Script Sudah Dibuat" |lolcat
+echo "Tersimpan Di sdcard" |lolcat
 fi
 
 if [ $bro = 17 ] || [ $bro = 17 ]
